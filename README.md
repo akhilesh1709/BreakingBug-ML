@@ -3,6 +3,10 @@
 ## Team name: The Qubits
 ## Team members: Akhilesh T S, Karthik Sriram V
 
+### Open the `bugged_file.py` and review the debugged file with no bugs
+
+
+
 <img src="https://images.prismic.io/ieeemuj/Zqu58B5LeNNTxuyE_BreakingBugBanner.png?auto=format,compress" alt="Breaking Bug Poster">
 
 ## Table of Content
