@@ -3,7 +3,7 @@
 ## Team name: The Qubits
 ## Team members: Akhilesh T S, Karthik Sriram V
 
-### Open the `bugged_file.py` and review the debugged file with no bugs
+### Open the `breakingbug.py` and review the debugged file with no bugs
 
 
 
