@@ -1,5 +1,8 @@
 # Breaking Bug - Machine Learning Repository
 
+## Team name: The Qubits
+## Team members: Akhilesh T S, Karthik Sriram V
+
 <img src="https://images.prismic.io/ieeemuj/Zqu58B5LeNNTxuyE_BreakingBugBanner.png?auto=format,compress" alt="Breaking Bug Poster">
 
 ## Table of Content
